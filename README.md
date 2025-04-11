@@ -21,6 +21,12 @@ This allows quick testing of common crystals used in embedded systems and electr
 
 ---
 
+## ⚙️ Circuit Preview
+![WhatsApp Image 2025-03-29 at 4 01 38 PM](https://github.com/user-attachments/assets/c381c5a1-e7cb-421b-a926-e9fabb06eb57)
+
+
+---
+
 ## 🚀 How to Use
 
 1. Open the file `ROOT.DSN` using Proteus.
